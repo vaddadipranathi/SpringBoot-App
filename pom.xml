@@ -56,7 +56,7 @@
 	</dependencies>
 
 	<build>
-		<finalname>food<finalname>
+		<finalname>hcl<finalname>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
